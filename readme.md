@@ -12,5 +12,7 @@ Questa repo contiene dati e codice per analisi e visualizzazioni dei titoli di a
 - `examples.json`: file json contenente 10 esempi per il fewshot learning, manualmente classificati e corredati di razionale per la classificazione, per permettere il Chain of Thought. 
 - `test_articles.json`: file json contenente 47 titoli di articoli italiani manualmente classificati come dateset di benchmark per testare le performance del modello di classificazione. 
 
+## Dettagli dei modelli
 
+I modelli LLM utilizzati sono stati una quantizzazione di Mixtral MoE 8x7B in locale e GPT-3.5-turbo attraverso l'API di OpenAI.
 
