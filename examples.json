@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Le telefonate di Schlein tra Israele e Palestina: \u201cServe safe zone a Gaza\u201d",
+    "bias": "non_chiaro",
+    "reason": "Non \u00e8 un articolo schierato. Descrive l'impegno di una politica rispetto al conflitto ma senza prendere una parte"
+  },
+  {
+    "title": "Il rastrellamento dei bambini nei kibbutz? Come la tragedia del ghetto di Roma",
+    "bias": "anti_palestinese",
+    "reason": "L'articolo utilizza un paragone improprio tra l'attacco di Hamas e i rastrellamenti dei nazisti nella seconda guerra mondiale."
+  },
+  {
+    "title": "Hamas, la caccia agli jihadisti tra tunnel e bombardamenti. Israele: \u00abUccisi quasi sessanta capi\u00bb",
+    "bias": "anti_palestinese",
+    "reason": "I bombardamenti da parte di Israele hanno causato migliaia di vittime civili che nel titolo non vengono nemmeno citate."
+  },
+  {
+    "title": "Bologna, scontri al presidio pro Palestina davanti alla sede Rai",
+    "bias": "non_chiaro",
+    "reason": "Il titolo descrive ci\u00f2 che \u00e8 successo senza dare la colpa a nessuno in particolare"
+  },
+  {
+    "title": "Giorno Memoria, Mattarella: \"Israele ha sofferto, non neghi ad altro popolo il diritto a uno Stato\"",
+    "bias": "non_chiaro",
+    "reason": "Il titolo riporta le parole di Mattarella, il Presidente della Repubblica italiana"
+  },
+  {
+    "title": "Cosa \u00e8 successo nel kibbutz di Kfar Aza, in Israele: 40 bambini tra i 200 morti: \u00ab\u00c8 come entrare nei lager\u00bb",
+    "bias": "anti_palestinese",
+    "reason": "Il titolo d\u00e0 spazio ad alcuni dichiarazioni molto emotive fatte dall'esercito di Israele per sottolineare la crudelt\u00e0 di Hamas, rimandandoo ai lager nazisti."
+  },
+  {
+    "title": "Perch\u00e9 difendo Israele",
+    "bias": "anti_palestinese",
+    "reason": "Il titolo sembra quello di un articolo di opinione perch\u00e9 \u00e8 scritto in prima persona. \u00c8 un articolo esplicitamente in difesa di Israele"
+  },
+  {
+    "title": "Israele, la societ\u00e0 contro i palestinesi. \u00abLi odiamo tutti\u00bb",
+    "bias": "anti_israele",
+    "reason": "Il titolo generalizza su tutta la societ\u00e0 israeliana e usa un virgolettato violento di cui non si sa la fonte."
+  }
+]
