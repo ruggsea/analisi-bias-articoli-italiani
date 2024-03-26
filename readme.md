@@ -1,5 +1,3 @@
-# Analisi bias titoli di articoli italiani - Parallasse/Scomodo
-
 ## Introduzione
 
 Questa repo contiene dati e codice per analisi e visualizzazioni dei titoli di articoli italiani di tre testate giornalistiche: Repubblica, Corriere della Sera e Libero. L'analisi è stata condotta per la rubrica Parallasse, la rassegna stampa critica del 54 numero di [Scomodo](https://www.scomodo.org). 
