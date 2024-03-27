@@ -10,6 +10,7 @@ Questa repo contiene dati e codice per analisi e visualizzazioni dei titoli di a
 - `examples.json`: file json contenente 10 esempi per il fewshot learning, manualmente classificati e corredati di razionale per la classificazione, per permettere il Chain of Thought. 
 - `test_articles.csv`: file csv contenente 47 titoli di articoli italiani manualmente classificati come dateset di benchmark per testare le performance del modello di classificazione. 
 - `dati_rivista`: i dati usati nei tre grafici presenti sulla rivista e un notebook per ricrearli con matplotlib
+-`classification_openai`: notebook e csv utilizzati per la classificazione dei titoli con OpenAI
 
 ## Dettagli dei modelli
 
